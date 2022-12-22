@@ -1,0 +1,6 @@
+hub HG03942.verkko.v1
+shortLabel HG03942.v1
+longLabel Human HG03942 (verkko,v1) Development Genome Asembly Hub
+genomesFile genomes.txt
+email uralsky@rogaevlab.ru
+descriptionUrl dev-assembly-HG03942.html

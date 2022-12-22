@@ -1,0 +1,34 @@
+track assembly_
+shortLabel HG03942.hap2.v1
+longLabel Assembly of HG03942.hap2 (verkko, v1)
+priority 12
+visibility dense
+colorByStrand 150,100,30 230,170,40
+color 150,100,30
+altColor 230,170,40
+bigDataUrl bbi/HG03942.hap2.bb
+type bigBed 6
+html ../trackDescriptions/assembly
+group assembly
+
+track gap_
+shortLabel Gap
+longLabel Gap locations
+priority 13
+visibility dense
+color 0,0,0
+bigDataUrl bbi/HG03942.hap2.gap.bb
+type bigBed 4
+html gap
+group assembly
+
+track ASat_HOR
+shortLabel ASat HOR
+longLabel Annotation of ASat HOR monomers (HG03942.hap2 assembly release v1, HMMs 030922)
+group varRep
+priority 10
+visibility dense
+type bigBed 9
+itemRgb on
+items 100000
+bigDataUrl bbi/HG03942.hap2.fa-vs-AS-HORs-hmmer3.0-030922.corr_coords.sorted.bb

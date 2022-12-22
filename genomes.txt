@@ -1,0 +1,19 @@
+genome HG03942.hap1.v1
+trackDb HG03942.hap1.v1/trackDb.txt
+description Human HG03942.hap1 (verkko,v1) Genome Asembly
+twoBitPath HG03942.hap1.v1/HG03942.hap1.2bit
+organism Homo Sapiens
+defaultPos haplotype1-0000016:62800000-62900000
+orderKey 4700
+scientificName Homo Sapiens
+htmlPath HG03942.hap1.v1/description.html
+
+genome HG03942.hap2.v1
+trackDb HG03942.hap2.v1/trackDb.txt
+description Human HG03942.hap2 (verkko,v1) Genome Asembly
+twoBitPath HG03942.hap2.v1/HG03942.hap2.2bit
+organism Homo Sapiens
+defaultPos haplotype2-0000939:40350000-40500000
+orderKey 4700
+scientificName Homo Sapiens
+htmlPath HG03942.hap2.v1/description.html
