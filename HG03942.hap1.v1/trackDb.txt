@@ -30,5 +30,5 @@ priority 10
 visibility dense
 type bigBed 9
 itemRgb on
-items 100000
+maxItems 100000
 bigDataUrl bbi/HG03942.hap1.fa-vs-AS-HORs-hmmer3.0-030922.corr_coords.sorted.bb
